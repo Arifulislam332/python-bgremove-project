@@ -1,6 +1,7 @@
 first e virtual env activate korte hoy
 
-command .\.venv\Scripts\activate
+command >> .\.venv\Scripts\activate
+
 install from requirements.txt
 
 pip install -r requirements.txt
